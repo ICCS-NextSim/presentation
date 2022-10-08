@@ -10,3 +10,11 @@ Edit the notebook
 ```
 jupyter nbconvert neXtSIM_slides.ipynb --to slides --post serve
 ```
+
+or 
+
+- run 
+```
+make serve
+```
+
